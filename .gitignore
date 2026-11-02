@@ -1,0 +1,2 @@
+# Exclude hidden directories (.obsidian, .trash, .vscode, ...)
+.*/
